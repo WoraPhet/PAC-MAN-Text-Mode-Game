@@ -1,0 +1,4 @@
+﻿  PacMan.cpp
+D:\visual studio source\repos\Pac_Man\PacMan.cpp(257,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\visual studio source\repos\Pac_Man\PacMan.cpp(1023,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Pac_Man.vcxproj -> D:\visual studio source\repos\Pac_Man\Debug\Pac_Man.exe

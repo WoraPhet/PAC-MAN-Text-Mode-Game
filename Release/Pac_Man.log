@@ -1,0 +1,8 @@
+﻿  PacMan.cpp
+D:\visual studio source\repos\Pac_Man\PacMan.cpp(257,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\visual studio source\repos\Pac_Man\PacMan.cpp(1023,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 332 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Pac_Man.vcxproj -> D:\visual studio source\repos\Pac_Man\Release\Pac_Man.exe
